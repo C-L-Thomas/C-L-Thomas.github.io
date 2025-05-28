@@ -39,3 +39,13 @@ footer {
   color: #666;
   margin-top: 2rem;
 }
+
+.profile-pic {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 0 auto 1rem;
+  display: block;
+  border: 3px solid #ccc;
+}
